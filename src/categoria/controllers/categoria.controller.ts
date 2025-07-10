@@ -1,5 +1,3 @@
-// src/categoria/categoria.controller.ts
-
 import {
   Body,
   Controller,
